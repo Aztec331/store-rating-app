@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "g:/Personal/Corporate Majdoor/Assignments/store-rating-app/config",
-      "program": "g:/Personal/Corporate Majdoor/Assignments/store-rating-app/config/build/Debug/outDebug",
+      "cwd": "g:/Personal/Corporate Majdoor/Assignments/store-rating-app/models",
+      "program": "g:/Personal/Corporate Majdoor/Assignments/store-rating-app/models/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
