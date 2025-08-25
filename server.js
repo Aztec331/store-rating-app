@@ -20,6 +20,13 @@ const authRoutes = require("./routes/auth");
 // Mount routes
 app.use("/api/auth", authRoutes);
 
+const adminRoutes = require("./routes/admin");
+app.use("/api/admin", adminRoutes);
+
+const storeRoutes = require("./routes/stores");
+app.use("/api/stores", storeRoutes);
+
+
 // Test route
 app.get("/", (req, res) => {
   res.send("API is running 🚀");
